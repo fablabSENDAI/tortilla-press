@@ -1,6 +1,8 @@
 # tortilla-press
 木製トルティーヤプレスの設計データ
 
+![](rhino_press.jpg)
+
 * tortilla_press.3dm  
 トルティーヤプレスの3Dモデル(Rhinocerosデータ)
 
